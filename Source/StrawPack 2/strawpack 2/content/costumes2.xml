@@ -1,0 +1,9 @@
+<costumes anm2root="gfx/characters/">
+	<costume anm2path="c001_momsmole.anm2" type="none" priority="99" />
+	
+	<!-- Based off the original Monstro's Tooth costume -->
+	<costume anm2path="c001_monstroseye.anm2" type="none" skinColor="1" overwriteColor="true" />
+
+	<costume anm2path="c001_fallenfeather_blue_uriel.anm2" type="none" /> <!-- Uriel costume (default) -->
+	<costume anm2path="c002_fallenfeather_red_gabriel.anm2" type="none" /> <!-- Gabriel costume (for Sheol and Dark Room) -->
+</costumes>

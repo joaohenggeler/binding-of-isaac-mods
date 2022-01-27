@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>fallen feather</name>
+    <directory>fallen feather</directory>
+    <id>1153048172</id>
+    <description>[i]&quot;Help from above!&quot;[/i]
+
+Adds a brand new passive item to the Angel Room pool!
+
+Art and The Glutton's Fork idea and design by Aczom.
+Code by Strawrat.
+This mod uses a cropped version of the following sound effect from Freesound: [url=http://freesound.org/people/Robinhood76/sounds/93570/]&quot;01543 flying dragon&quot; by Robinhood76.[/url]
+
+[h1]Fallen Feather:[/h1]
+
++2 Soul Hearts.
+
+Every time Isaac enters an uncleared room, a feather will fall from the sky.
+
+After it reaches the ground, one of two effects will happen:
+
+1. If the room was cleared while it was falling, every consumable in the room will be doubled (Jera Rune effect). If no consumables exist, a Soul Heart will spawn instead.
+
+2. If it remains uncleared, light beams will be shot down from the sky (Crack the Sky effect).
+
+The time it takes to fall to the ground depends on the number of enemies at the start of the room. This value goes from 6 seconds (when no enemies exist) to 15 seconds (at 16 or more enemies).
+
+[h1]The Glutton's Fork (challenge):[/h1]
+
+[url=https://www.youtube.com/watch?v=S6T7euV4XVc]See it in action here![/url]
+
+[b]Character:[/b] Isaac
+
+[b]Starting items:[/b] Fallen Feather, PHD, Isaac's Fork and a Gulp! pill.
+
+Every time a room is cleared before the feather hits the ground, every trinket, pill, card and rune held will be dropped on the ground.
+
+Duplicating a trinket with the feather will spawn another random trinket instead.
+
+[b]Conditions:[/b] no Treasure or Dice Rooms.
+
+[b]Goal:[/b] Satan.
+
+[IMG]https://bindingofisaacrebirth.gamepedia.com/media/bindingofisaacrebirth.gamepedia.com/8/86/Isaac%27s_Fork_Icon.png?version=d8236587a6d9921419d74717e8e60f67[/IMG]
+
+This item and challenge will be part of the StrawPack 2 item pack. Stay tuned!</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Challenges"/>
+</metadata>

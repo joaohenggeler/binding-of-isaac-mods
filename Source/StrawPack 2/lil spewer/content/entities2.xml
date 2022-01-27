@@ -1,0 +1,17 @@
+<entities anm2root="gfx/" version="5">
+
+	<!-- Lil Brimstone and Lil Monstro were used as a reference -->
+
+	<!-- variant="124" -> next free familiar variant for vanilla familiars - the game will assign the next free one in case it's used -->
+	<entity anm2path="003.c01_Lil Spewer.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="13" friction="1" id="3" name="Lil Spewer" numGridCollisionPoints="12" shadowSize="12" stageHP="0" variant="124">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+        <preload id="1000" variant="32" /> <!-- PLAYER_CREEP_LEMON_MISHAP -->
+        <preload id="1000" variant="44" /> <!-- PLAYER_CREEP_WHITE -->
+        <preload id="1000" variant="45" /> <!-- PLAYER_CREEP_BLACK -->
+        <preload id="1000" variant="46" /> <!-- PLAYER_CREEP_RED -->
+        <preload id="1000" variant="53" /> <!-- PLAYER_CREEP_GREEN -->
+        <!-- <preload-snd id="16" /> <!-- SOUND_BOSS_SPIT_BLOB_BARF old sound -->
+        <preload-snd id="132" /> <!-- SOUND_POWERUP_SPEWER -->
+    </entity>
+    
+</entities>

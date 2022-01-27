@@ -1,0 +1,6 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<!-- Based off the original Monstro's Tooth item -->
+	<active maxcharges="6" name="Monstro's Eye" description="Summon Monstro II" gfx="collectibles_monstroseye.png" />
+
+</items>

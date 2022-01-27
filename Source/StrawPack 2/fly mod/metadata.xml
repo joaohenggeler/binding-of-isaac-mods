@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>fly mod</name>
+    <directory>fly mod</directory>
+    <id>934310582</id>
+    <description>[i]&quot;Obeys my every command&quot;[/i]
+
+Adds a brand new active item to the Treasure Room and Shop pools!
+
+Charge: 1 room.
+
+While held, a robotic fly will orbit Isaac, dealing light contact damage and blocking enemy shots.
+
+After activating the item, Fly Mod will leave the orbit and dash for a few seconds, dealing a high amount of damage.
+
+After the fly slows down, it will bounce off the walls for the remainder of the room, dealing a medium amount of damage.
+
+Fly Mod confuses fly enemies that get close to it. It also turns Blue Flies into Locusts if they stay close to it for a few seconds.
+
+Every time Fly Mod kills an enemy, there is 50% for a Blue Fly to spawn.
+
+Synergizes with BFFS: increased area of effect for enemies and Blue Flies + the number of Blue Flies spawned after killing an enemy is increased by the amount of BFFS! items.
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1163138153]Now part of StrawPack 2![/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=836319872]Also compatible with External Item Descriptions![/url]
+
+Art by Aczom and code by Strawrat.
+
+Special thanks to HiHowAreYou for the tip on animated thumbnails.</description>
+    <version>1.5</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Active Items"/>
+    <tag id="Familiars"/>
+</metadata>

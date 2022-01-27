@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>plucked daisy</name>
+    <directory>plucked daisy</directory>
+    <id>927164425</id>
+    <description>[i]Loves me, loves me not[/i]
+
+Adds a brand new trinket into the game!
+
+While held, every amount of damage taken has a 50% to either be doubled or ignored.
+
+Synergizes with Mom's Box: same penalty but instead of ignoring the damage, Isaac gets healed for that amount.
+
+This trinket will part of the StrawPack 2 item pack. Stay tuned!
+
+Art by Aczom and code by Strawrat.</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Trinkets"/>
+</metadata>

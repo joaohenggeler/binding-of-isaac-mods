@@ -1,0 +1,10 @@
+<challenges version="1">
+	<!--
+		Character: The Keeper (14)
+		Starting items: Sack of Pennies (94), Money = Power (109), Deep Pockets (416), Head of the Keeper (429), Eye of Greed (450), Dad's Lost Coin (455), Crooked Penny (485), Greed's Gullet (501), Store Key (83), Ace of Diamonds (28)
+		Goal: buy a Trophy that costs 99 cents and is located on every Starting Room of every floor
+		Conditions: Infinite Basement seed effect, the player dies after 7 floors (both managed in the code)
+					no Sacrifice (13) or Dice Rooms (21), no curses (cursefilter = 0xFFFFFFFF)
+	-->
+    <challenge name="Penny Pincher" playertype="14" startingitems="94,109,416,429,450,455,485,501" startingtrinkets="83" startingcard="28" roomfilter="13,21" cursefilter="4294967295"/>
+</challenges>

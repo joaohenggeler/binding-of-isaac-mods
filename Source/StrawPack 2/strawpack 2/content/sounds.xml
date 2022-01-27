@@ -1,0 +1,9 @@
+<sounds root="sfx/">
+
+	<!-- Taken from freesound.org/people/Robinhood76/sounds/93570/
+		"sound of large winged monster in fly - performed by mouth rec by Shure BG 5.1" -->
+	<sound name="Angel Flyby Wing Flap">
+		<sample weight="1" path="robinhood76_flying_dragon_edited.wav"/>
+	</sound>
+
+</sounds>

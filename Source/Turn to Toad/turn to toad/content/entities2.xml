@@ -1,0 +1,17 @@
+<entities anm2root="gfx/" version="5">
+
+	<!-- Blue Frog is a variant of a Flaming Hopper with the .anm2 of a Trite-->
+
+    <entity anm2path="054.c01_bluefrog.anm2" reroll="true" baseHP="20" boss="0" champion="1" collisionDamage="1" collisionMass="10" collisionRadius="13" friction="1" id="54" name="Blue Frog" numGridCollisionPoints="12" shadowSize="28" stageHP="0" variant="523543" portrait="42" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+    	<gibs amount="6" blood="1" bone="1" eye="0" gut="1" large="0" />
+   		<preload-snd id="69" /> <!-- SOUND_MEAT_IMPACTS -->
+	</entity>
+
+	<!-- for bosses -->
+
+	<entity anm2path="054.c01_bluefrog.anm2" reroll="true" baseHP="40" boss="1" champion="1" collisionDamage="1" collisionMass="10" collisionRadius="13" friction="1" id="54" name="Blue Frog Boss" numGridCollisionPoints="12" shadowSize="28" stageHP="0" variant="1728554" portrait="42" bestiary="true" bestiaryTransform="0,0,1" bestiaryAnim="Idle">
+    	<gibs amount="6" blood="1" bone="1" eye="0" gut="1" large="0" />
+   		<preload-snd id="69" /> <!-- SOUND_MEAT_IMPACTS -->
+	</entity>
+
+</entities>

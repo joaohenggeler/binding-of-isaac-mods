@@ -1,0 +1,18 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<trinket name="Larry's Butt" description="Fecal protection" gfx="trinket_larrysbutt.png" />
+	<trinket cache="damage speed" name="Red Spider Egg" description="Strength at a cost" gfx="trinket_redspideregg.png" />
+	<trinket name="Chastity Belt" description="Reduced spawns" gfx="trinket_chastitybelt.png" />
+	<trinket name="A Prescription" description="Don't forget to take them!" gfx="trinket_aprescription.png" />
+	<!-- Booster Pack #3: <trinket name="Doorstop" description="Hold the door" gfx="trinket_doorstop.png" /> -->
+
+	<passive cache="luck" name="Mom's Ring" description="Chain reaction + luck up!" gfx="collectibles_momsring.png" />
+	<!-- Booster Pack #4: <passive cache="familiars" name="Extension Cord" description="Charged friends" gfx="collectibles_extensioncord.png" /> -->
+	<passive cache="shotspeed range" soulhearts="2" name="Bubble Wrap" description="Bubbly tears + shot speed up" gfx="collectibles_bubblewrap.png" />
+	<passive cache="range" hearts="1" maxhearts="2" name="Moldy Cheese" description="HP up + temporary help" gfx="collectibles_moldycheese.png" />
+	
+	<familiar devilprice="1" name="Mini Maw" description="Sucking buddy" gfx="collectibles_minimaw.png" />
+	<familiar name="Mechanical Flies" description="Wind 'em up!" gfx="collectibles_mechanicalflies.png" />
+	<familiar name="Planetoids" description="Celestial buddies" gfx="collectibles_planetoids.png" />
+
+</items>

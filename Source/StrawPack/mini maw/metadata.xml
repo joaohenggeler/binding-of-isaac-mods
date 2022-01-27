@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>mini maw</name>
+    <directory>mini maw</directory>
+    <id>894765621</id>
+    <description>[i]&quot;Sucking buddy&quot;[/i]
+
+Adds a new familiar to the Devil and Treasure Room pools!
+
+Mini Maw follows Isaac, sucking enemy projectiles within a certain range. Fires a normal tear towards the closest enemy when hit by an enemy projectile.
+
+Synergizes with BFFS: fires triple shot tears.
+
+This item is part of the StrawPack item pack.
+
+Code and sprites by Strawrat.</description>
+    <version>1.4</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Familiars"/>
+</metadata>

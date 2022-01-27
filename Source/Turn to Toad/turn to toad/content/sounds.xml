@@ -1,0 +1,6 @@
+<sounds root="sfx/">
+	<sound name="frog croaking">
+		<sample weight="1" path="frog croaking 1.wav"/>
+		<sample weight="1" path="frog croaking 2.wav"/>
+	</sound>
+</sounds>

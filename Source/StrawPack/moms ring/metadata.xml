@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>moms ring</name>
+    <directory>moms ring</directory>
+    <id>894767432</id>
+    <description>[i]&quot;Chain reaction + luck up!&quot;[/i]
+
+Adds a brand new passive item to the Treasure Room pool!
+
+Spawns two coins on pickup.
+
+When an enemy dies, there is a lucked based chance for 4 tears to be shot in a cross pattern in their last position.
+Chance for the effect to happen is capped at 50%.
+
+Synergizes with Brimstone, Dr Fetus, Technology and Tech X.
+Can be found in the Treasure Room pool.
+
+This item is part of the StrawPack item pack.
+
+Art by Aczom and code by Strawrat.</description>
+    <version>1.6</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>

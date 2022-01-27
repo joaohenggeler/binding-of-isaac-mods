@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>a prescription</name>
+    <directory>a prescription</directory>
+    <id>894754790</id>
+    <description>While held, activates a random pill effect (that doesn't change Isaac's stats) every minute.
+Does not include Retro Vision.
+
+Synergizes with Mom's Box: time is reduced to 30 seconds.
+
+This trinket is part of the StrawPack item pack.
+
+Code by Strawrat and art by Aczom.</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Trinkets"/>
+</metadata>

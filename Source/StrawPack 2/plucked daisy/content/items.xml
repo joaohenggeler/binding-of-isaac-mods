@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<trinket name="Plucked Daisy" description="Loves me, loves me not" gfx="trinket_pluckeddaisy.png" />
+
+</items>

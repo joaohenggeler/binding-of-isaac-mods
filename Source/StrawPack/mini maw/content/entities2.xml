@@ -1,0 +1,9 @@
+<entities anm2root="gfx/" version="5">
+
+	<!-- variant="124" -> next free familiar variant for vanilla familiars - the game will assign the next free one in case it's used -->
+	<entity anm2path="003.c01_mini maw.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="18" friction="1" id="3" name="Mini Maw" numGridCollisionPoints="12" shadowSize="16" stageHP="0" variant="124" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+        <preload-snd id="262" /> <!-- SOUND_STONESHOOT -->
+    </entity>
+
+</entities>

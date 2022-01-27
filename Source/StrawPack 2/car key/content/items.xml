@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<trinket name="Car Key" description="Fast unlocking" gfx="trinket_carkey.png" />
+
+</items>

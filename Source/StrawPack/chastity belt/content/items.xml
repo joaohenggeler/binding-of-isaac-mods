@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<trinket name="Chastity Belt" description="Reduced spawns" gfx="trinket_chastitybelt.png" />
+
+</items>

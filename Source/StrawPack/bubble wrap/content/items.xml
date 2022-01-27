@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<passive cache="shotspeed range" soulhearts="2" name="Bubble Wrap" description="Bubbly tears + shot speed up" gfx="collectibles_bubblewrap.png" />
+
+</items>

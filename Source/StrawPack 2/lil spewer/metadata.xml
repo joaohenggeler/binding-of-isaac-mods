@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>lil spewer</name>
+    <directory>lil spewer</directory>
+    <id>1108638164</id>
+    <description>[i]&quot;Puking buddy!&quot;[/i]
+
+ [url=https://vignette2.wikia.nocookie.net/kongregate/images/f/f7/Spewer.jpg/revision/latest?cb=20110828154448][IMG]http://i.imgur.com/nJlLTc1.png[/IMG][/url]
+
+Adds a brand new chargeable familiar to the Treasure Room pool!
+
+When picked up, a random pill is dropped on the floor.
+
+Gives Isaac a follower that shoots charged creep shots whose damage and pattern changes depending on Lil Spewer's variant.
+
+Every time Isaac takes a pill, Lil Spewer changes into a different variant.
+
+The pill drop and variant changes are seeded.
+
+Synergizes with BFFS: longer range and the creep line lasts longer.
+
+Synergizes with Lost Cork: larger puddles of creep.
+
+[h1]All 5 Possible Lil Spewer Variants:[/h1]
+
+[IMG]http://i.imgur.com/HfG1NMt.png[/IMG]
+[b]Normal:[/b]
+Shoots a medium-range line of green medium damage creep.
+Always the first variant when the item is picked up.
+Can be used as a general purpose attacking familiar.
+
+[IMG]http://i.imgur.com/05eyLFX.png[/IMG]
+[b]Black:[/b]
+Shoots a long-range line of black slowing creep.
+The line has a longer lifespan than the previous variant.
+Can be used as a general purpose defending familiar.
+
+[IMG]http://i.imgur.com/9C3HJnf.png[/IMG]
+[b]Red:[/b]
+Shoots a fast long-range line of red high damage creep.
+These puddles have a very short lifespan.
+A larger puddle of red creep with a longer lifespan is spawned at the end of its range.
+Can be used to deal a killing blow to several lined up enemies.
+
+[IMG]http://i.imgur.com/jumA23D.png[/IMG]
+[b]Yellow:[/b]
+Shoots a short-range line of yellow creep whose size and damage increases with range.
+The last puddle of creep in the line can potentially deal more damage than any other Lil Spewer variant (capped at 20).
+Can be used for close-range crowd control.
+
+[IMG]http://i.imgur.com/9dlc7gw.png[/IMG]
+[b]White:[/b]
+Shoots two arching lines of white slowing creep that form a circle.
+The lines have the longest lifespan of any variant.
+Can be used to trap enemies in a circle while Isaac makes his escape.
+
+This familiar will be part of StrawPack 2. Stay tuned!
+
+Art by Aczom and code by Strawrat.
+Special thanks to [url=https://www.youtube.com/user/Lytebringr/]Lytebringr[/url] for his modding tutorials.
+
+Based on the flash game [url=http://www.kongregate.com/games/2darray/spewer]Spewer[/url] made by Edmund McMillen and Eli Piilonen. The original flash game is also available in [url=http://store.steampowered.com/app/214790/The_Basement_Collection/]The Basement Collection[/url].</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Familiars"/>
+</metadata>

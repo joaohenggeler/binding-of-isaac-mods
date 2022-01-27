@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<passive cache="luck" name="Mom's Ring" description="Chain reaction + luck up!" gfx="collectibles_momsring.png" />
+
+</items>

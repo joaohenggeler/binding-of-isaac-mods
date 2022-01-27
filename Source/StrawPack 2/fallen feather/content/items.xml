@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<passive soulhearts="4" name="Fallen Feather" description="Help from above!" gfx="collectibles_fallenfeather.png" />
+
+</items>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>penny pincher</name>
+    <directory>penny pincher</directory>
+    <id>1190569532</id>
+    <description>[i]&quot;A challenge about being economic enough to collect 99 cents on 7 Basement floors!&quot;[/i]
+
+Adds a brand new challenge to the game!
+
+[b]Character:[/b] The Keeper
+
+[b]Starting items:[/b] Sack of Pennies, Money = Power, Deep Pockets, Head of the Keeper, Eye of Greed, Dad's Lost Coin, Crooked Penny, Greed's Gullet, Store Key, Ace of Diamonds and The Fool card.
+
+[b]Conditions:[/b]
+[list]
+[*]Infinite Basement Seed Effect.
+[*]The Keeper dies after 7 floors (Basement VIII onwards).
+[*]No curses.
+[*]No Dice or Sacrifice Rooms.
+[*]2 of Diamonds cards are replaced with Ace of Diamonds.
+[*]The Coupon cannot be found in its item pools.
+[*]Enemy projectiles cause you to lose coins (like Greed or a Hanger).
+[/list]
+
+[b]Goal:[/b] buy a Trophy that costs 99 cents and is located on every Starting Room of every floor.
+
+Art by Aczom and code by Strawrat.
+
+[IMG]https://bindingofisaacrebirth.gamepedia.com/media/bindingofisaacrebirth.gamepedia.com/6/6d/Coin.png?version=09b9523fbf8638611e8841e056ea6360[/IMG] [IMG]https://bindingofisaacrebirth.gamepedia.com/media/bindingofisaacrebirth.gamepedia.com/6/6d/Coin.png?version=09b9523fbf8638611e8841e056ea6360[/IMG] [IMG]https://bindingofisaacrebirth.gamepedia.com/media/bindingofisaacrebirth.gamepedia.com/6/6d/Coin.png?version=09b9523fbf8638611e8841e056ea6360[/IMG]</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Challenges"/>
+</metadata>

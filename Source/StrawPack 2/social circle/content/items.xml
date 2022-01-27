@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<trinket cache="familiars" name="Social Circle" description="Circle of friends" gfx="trinket_socialcircle.png" />
+
+</items>

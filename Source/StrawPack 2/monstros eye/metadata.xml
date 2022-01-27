@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>monstros eye</name>
+    <directory>monstros eye</directory>
+    <id>1134530387</id>
+    <description>[i]&quot;Summon Monstro II&quot;[/i]
+
+Adds a brand new active item to the Treasure Room pool!
+
+Charge: 6 rooms.
+
+When used, summons Monstro 2 to drop from above, landing on enemies, dealing 120 damage to them and destroying obstacles like rocks.
+
+After dropping down, Monstro 2 will shoot a Brimstone laser with the player's tear effects and damage.
+
+If no enemies are present, Monstro 2 will fall where Isaac is. He won't, however, home towards the player while falling.
+
+While held, there's a 15% chance to shoot concussive tears, causing enemies to walk around randomly.
+
+This item will be part of the StrawPack 2 item pack. Stay tuned!
+
+Art by Aczom and code by Strawrat.</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+</metadata>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>moms mole</name>
+    <directory>moms mole</directory>
+    <id>927163629</id>
+    <description>[i]&quot;Burrowing tears + shot speed up&quot;[/i]
+
+Adds a brand new passive item to the Treasure Room pool!
+
+Shot speed up + slight range down.
+
+Isaac's tears now burrow underground at the end of their range. After enough have been burrowed, they'll all reemerge at once with combined tear effects.
+
+This item will be part of the StrawPack 2 item pack. Stay tuned!
+
+Art by Aczom and code by Strawrat.</description>
+    <version>1.5</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>

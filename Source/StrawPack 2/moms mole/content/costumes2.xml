@@ -1,0 +1,3 @@
+<costumes anm2root="gfx/characters/">
+	<costume anm2path="c001_momsmole.anm2" type="none" priority="99" />
+</costumes>

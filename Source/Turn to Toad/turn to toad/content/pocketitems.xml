@@ -1,0 +1,8 @@
+<pocketitems>
+	<!--hud = animation name in ui_cardfronts.anm2 corresponding to your card - what shows up in the bottom right corner when you have it-->
+  <card description="&quot;Ribbit!&quot;" hud="c01_TurnToToad" name="Turn To Toad"/>
+
+  <!--  Isaac.GetCardIdByName() expects you to pass it the hud and not the name-->
+
+  <!-- here's the deal, you have to put your gfx with ui_cardfronts.anm2 and it's spritesheet in the content folder (where pocketitems.xml is); if you have any other stuff like items or enemies put their gfx folder under resources where they would normally be-->
+</pocketitems>

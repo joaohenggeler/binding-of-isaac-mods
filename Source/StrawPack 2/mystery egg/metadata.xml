@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>mystery egg</name>
+    <directory>mystery egg</directory>
+    <id>1016223447</id>
+    <description>[i]&quot;Sacrificial insemination&quot;[/i]
+
+Adds a brand new follower to the Treasure Room pool!
+
+When Isaac takes damage, Mystery Egg breaks and releases a charmed enemy. The type of enemy spawned depends on how many rooms have been cleared with the familiar (see below).
+
+Spawned monsters have more health than normal.
+
+Synergizes with BFFS!: spawned enemies turn into a random champion type.
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1163138153]Now part of StrawPack 2![/url]
+
+Art by Aczom and code by Strawrat.
+
+[h1]List of possible charmed enemies:[/h1]
+
+[olist]
+
+[*]Level 0: 0 to 1 rooms cleared (inclusive):
+
+[IMG]http://i.imgur.com/bVt1efu.png[/IMG]
+
+[*]Level 1: 2 to 4 rooms cleared (inclusive):
+
+[IMG]http://i.imgur.com/rdrbbR6.png[/IMG]
+
+[*]Level 2: 5 to 7 rooms cleared (inclusive):
+
+[IMG]http://i.imgur.com/0JwTfeB.png[/IMG]
+
+[*]Level 3: 8 to 10 rooms cleared (inclusive):
+
+[IMG]http://i.imgur.com/fShjRSP.png[/IMG]
+
+[*]Level 4: 11 to 13 rooms cleared (inclusive):
+
+[IMG]http://i.imgur.com/bl95qV9.png[/IMG]
+
+[*]Level 5: more than 13 rooms cleared:
+
+[IMG]http://i.imgur.com/qzJW7MV.png[/IMG]
+
+[/olist]
+
+[u]Note:[/u] some monsters can turn into other variants, e.g: Mulligans -&gt; Mulligoon, Mulliboom, meaning the list is slightly longer than the one above. </description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Familiars"/>
+</metadata>

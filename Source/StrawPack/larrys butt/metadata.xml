@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>larrys butt</name>
+    <directory>larrys butt</directory>
+    <id>894761666</id>
+    <description>[i]&quot;Fecal protection&quot;[/i]
+
+While held, when damaged down to half a heart, if the damage was done by a projectile, a poop shield spawns around Isaac. Otherwise, Isaac releases a poisonous fart.
+
+Synergizes with Meconium, Midas Touch and Bozo: poop spawned can be black, golden or rainbow, respectively.
+
+This trinket is part of the StrawPack item pack.
+
+Art by Aczom and code by Strawrat.</description>
+    <version>1.4</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Trinkets"/>
+</metadata>

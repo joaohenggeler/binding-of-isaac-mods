@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>mechanical flies</name>
+    <directory>mechanical flies</directory>
+    <id>894763379</id>
+    <description>[i]&quot;Wind 'em up![/i]
+
+Adds a brand new orbital to the Treasure Room pool!
+
+Gives Isaac two fly orbitals:
+
+A blue-colored one that only moves when Isaac shoots and whose contact damage scales with Isaac's damage.
+A pink-colored one that only moves when Isaac moves and whose contact damage is constant.
+
+Although the blue fly's base damage is less than the pink one's damage, it can potentially overtake it with enough damage ups.
+
+This item is part of the StrawPack item pack.
+
+Code and sprites by Strawrat.</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Familiars"/>
+</metadata>

@@ -1,0 +1,14 @@
+<entities anm2root="gfx/" version="5">
+
+	<!-- variant="109" -> next free effect variant for vanilla effects - the game will assign the next free one in case it's used -->
+	<!-- Based off the original Monstro's Tooth entity -->
+   <entity anm2path="1000.c01_monstros eye.anm2" baseHP="0" boss="1" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="1" friction="1" id="1000" name="Monstros Eye" numGridCollisionPoints="0" shadowSize="56" stageHP="0" variant="109" portrait="7">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" /> <!-- The portrait is the same as Monstro 2's one -->
+        <preload-snd id="16" /> <!-- SOUND_BOSS_SPIT_BLOB_BARF -->
+        <preload-snd id="48" /> <!-- SOUND_FORESTBOSS_STOMPS -->
+		<preload id="7" variant="1" /> <!-- LASER_BRIMSTONE -->
+		<preload id="1000" variant="50" subtype="1" /> <!-- LASER_BRIMSTONE_IMPACT -->
+		<preload-snd id="7" /> <!-- SOUND_BLOOD_LASER_LARGE -->
+    </entity>
+
+</entities>

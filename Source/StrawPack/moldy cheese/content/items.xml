@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<passive cache="range" hearts="1" maxhearts="2" name="Moldy Cheese" description="HP up + temporary help" gfx="collectibles_moldycheese.png" />
+
+</items>

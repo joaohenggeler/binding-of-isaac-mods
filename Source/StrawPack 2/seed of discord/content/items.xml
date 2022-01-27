@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<trinket name="Seed of Discord" description="What will your future bring you?" gfx="trinket_seedofdiscord.png" />
+
+</items>

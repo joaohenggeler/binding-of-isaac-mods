@@ -1,0 +1,7 @@
+<sounds root="sfx/">
+	<!-- Raken from the Ed's flash Spewer game itself; volume increased by 300% -->
+	<sound name="Lil Spewer Barf Shot">
+		<sample weight="1" path="Spewer death scream 1.wav"/>
+		<sample weight="1" path="Spewer death scream 4.wav"/>
+	</sound>
+</sounds>

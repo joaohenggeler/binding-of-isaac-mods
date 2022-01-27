@@ -1,0 +1,4 @@
+<costumes anm2root="gfx/characters/">
+	<costume anm2path="c001_fallenfeather_blue_uriel.anm2" type="none" /> <!-- Uriel costume (default) -->
+	<costume anm2path="c002_fallenfeather_red_gabriel.anm2" type="none" /> <!-- Gabriel costume (for Sheol and Dark Room) -->
+</costumes>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>seed of discord</name>
+    <directory>seed of discord</directory>
+    <id>927165094</id>
+    <description>[i]&quot;What will your future bring you?&quot;[/i]
+
+Adds a brand new trinket to the game!
+
+While held, every time Isaac goes down a floor, 3 new special seed effects are added to the run.
+When a full batch of 3 seed effects can't be added, a random Challenge effect will be applied.
+
+Caution: zany trinket.
+
+[b] [u]NOTE: some seed effects will disable achievements! [/u] [/b]
+
+Includes the following Challenge effects:
+
+Onan's Streak
+Aprils Fool
+Speed! (without the overtime damage penalty)
+Cursed! (for the Cathedral and Sheol only)
+Ultra Hard (for the Chest and Dark Room only)
+
+Includes the following Special Seed effects (eggs):
+
+KEEP AWAY - Pickups mimic Isaac's movements.
+G0NE S00N - Pickups time out.
+FREE 2PAY - Items and consumables cost money.
+C0ME BACK - Enemies, including bosses, respawn once Isaac leaves the room.
+BRWN SNKE - Isaac leaves a trail of poop behind him as he walks.
+DARK NESS - Permanent Curse of Darkness.
+N1TE L1TE - Provides immunity to Curse of Darkness.
+BRAV ERY - Isaac fires tears in the same direction that he moves. Removes the normal ability to fire tears.
+C0WR D1CE - Isaac fires tears in the opposite direction that he moves. Removes the normal ability to fire tears.
+AX1S ALGN - Isaac cannot move diagonally.
+CAM0 K1DD - Isaac blends into the ground.
+CAM0 DR0P - Pickups and items blend into the ground.
+KAPP A - Isaac turns gray.
+PTCH BLCK - Isaac and his tears turn completely black.
+TEAR GL0W - Isaac's tears glow.
+BL00 00DY - Makes a lot more blood appear after enemies die.
+B00B T00B - Applies a filter that makes the game look like it's being played through a cathode ray tube.
+DYSL EX1A - All in-game text is rearranged.
+MED1 C1NE - All pill names and descriptions show ???.
+FACE D0WN - All card names and descriptions show ???.
+CHAM P10N - All enemies turn into champions if possible.
+FRA1 DN0T - Every few seconds, all enemies become scared.
+FART SNDS - All sound effects are replaced with farts.
+SL0W 4ME2 - Music speed is affected by Isaac's walking speed.
+HART BEAT - The lower Isaac's health is, the slower the music is.
+ANDA NTE - Music is slowed down.
+LARG HETO - Music is significantly slowed down.
+ALLE GR0 - Music is sped up.
+PRES T0 - Music is significantly sped up.
+
+This trinket will be part of the StrawPack 2 item pack. Stay tuned!
+
+Art by Aczom and code by Strawrat.</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Trinkets"/>
+</metadata>

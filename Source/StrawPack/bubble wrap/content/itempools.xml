@@ -1,0 +1,15 @@
+<ItemPools>
+	
+	<Pool Name="treasure">
+		
+		<Item Name="Bubble Wrap" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+
+	</Pool>
+
+	<Pool Name="greedTreasure">
+
+		<Item Name="Bubble Wrap" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		
+	</Pool>
+
+</ItemPools>

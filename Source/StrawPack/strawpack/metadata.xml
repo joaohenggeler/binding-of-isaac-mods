@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>strawpack</name>
+    <directory>strawpack</directory>
+    <id>894770463</id>
+    <description>[b] [u] NOTE:[/u] [/b] If you want to spawn every single item from this pack in the current room, execute the following command in the Debug Console: showcase strawpack
+
+You can open the Debug Console ingame by pressing '~', 'ù', 'ö' or 'ç'.
+
+[b] [u] NOTE 2:[/u] [/b] If you already have any of these items individually installed, be sure to disable them if you enable this pack to prevent any possible conflicts. 
+
+Art by Aczom and code by Strawrat.
+
+[url=http://steamcommunity.com/workshop/filedetails/?id=927173370] Get them individually here! [/url]
+
+[h1] [!] Update (2017/07/01):[/h1]
+
+Doorstop (now Door Stop) has been added officially! As such, the original trinket has been removed from the pack. It's still available separately in case people want to look at the code. Thanks for all the support!
+
+Includes the following 12 items:
+
+[h1]A Prescription (trinket):[/h1]
+While held, activates a random pill effect (that doesn't change Isaac's stats) every minute.
+Does not include Retro Vision.
+Synergizes with Mom's Box: time is reduced to 30 seconds.
+
+[h1]Bubble Wrap (passive):[/h1]
+Passive item that gives Isaac one soul heart on pickup. Tears now linger for a few seconds right after they start to fall to the ground.
+
+Found in the Treasure Room pool.
+
+[h1]Chastity Belt (trinket):[/h1]
+While held, there is a 50% chance to prevent monsters from being spawned by other enemies.
+Synergizes with Mom's Box: 100% chance instead.
+
+[h1]Doorstop (trinket - REMOVED - now in Booster Pack #3):[/h1]
+While held, upon entering a room, the last door Isaac came through will be opened once.
+
+[h1]Extension Cord (passive - REMOVED - now in Booster Pack #4):[/h1]
+After being picked up, a yellow laser chain now flows through Isaac's familiars.
+
+Found in the Shop pool.
+
+[h1]Larry's Butt (trinket):[/h1]
+While held, when damaged down to half a heart, if the damage was done by a projectile, a poop shield spawns around Isaac. Otherwise, Isaac releases a poisonous fart.
+Synergizes with Meconium, Midas Touch and Bozo: poop spawned can be black, golden or rainbow, respectively.
+
+[h1]Mechanical Flies (familiar):[/h1]
+Passive item that gives Isaac two fly orbitals:
+A blue-colored one that only moves when Isaac shoots and whose contact damage scales with Isaac's damage.
+A pink-colored one that only moves when Isaac moves and whose contact damage is constant.
+
+Found in the Treasure Room pool.
+
+[h1]Mini Maw (familiar):[/h1]
+Follows Isaac, sucking enemy projectiles within a certain range. Fires a tear towards the closest enemy when hit by an enemy projectile.
+Synergizes with BFFS: fires triple shot tears.
+
+Found in the Treasure Room and Devil Room pools.
+
+[h1]Moldy Cheese (passive):[/h1]
+Passive item that gives Isaac one half filled heart and 2-3 blue flies on pickup.
+For as long as Isaac doesn't get hit, green creep will spawn under him. After one hit, this one effect goes away until Isaac goes down a floor.
+
+Found in the Boss Room pool.
+
+[h1]Mom's Ring (passive):[/h1]
+Passive item that increases Isaac's luck and spawns two coins on pickup.
+When an enemy dies, there is a lucked based chance for 4 tears to be shot in a cross pattern in their last position.
+Chance for the effect to happen is capped at 50%.
+Synergizes with Brimstone, Dr Fetus, Technology and Tech X.
+
+Found in the Treasure Room pool.
+
+[h1]Planetoids (familiar):[/h1]
+Gives Isaac 3 orbitals:
+Sun: orbits Isaac and has a 1/5 chance to apply burn on contact. Turns tears into Fire Mind tears when they pass through it.
+Earth: orbits the Sun and has a 1/5 chance to spawn a small puddle of blue creep on contact. Turns Fire Mind tears back into regular tears.
+Moon: orbits the Earth and has a 1/5 chance to apply confusion on contact.
+
+Found in the Treasure Room pool.
+
+[h1]Red Spider Egg (trinket):[/h1]
+While held, Isaac gains a damage and speed boost and every enemy projectile has a 1/10 to turn into a spider when spawned.
+Synergizes with Mom's Box: boosts are doubled but so is the likelihood of a projectile turning into a spider.
+Synergizes with another item from this pack: Chastity Belt, which removes the spider penalty.</description>
+    <version>1.10</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Trinkets"/>
+    <tag id="Familiars"/>
+</metadata>

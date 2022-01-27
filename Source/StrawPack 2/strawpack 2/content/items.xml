@@ -1,0 +1,20 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<trinket name="Plucked Daisy" description="Loves me, loves me not" gfx="trinket_pluckeddaisy.png" />
+	<trinket name="Car Key" description="Fast unlocking" gfx="trinket_carkey.png" />
+	<trinket name="Seed of Discord" description="What will your future bring you?" gfx="trinket_seedofdiscord.png" />
+	<trinket cache="familiars" name="Social Circle" description="Circle of friends" gfx="trinket_socialcircle.png" />
+	<trinket name="Familiar Doll" description="Thematic spoils" gfx="trinket_familiardoll.png" />
+
+	<active maxcharges="1" name="Fly Mod" description="Obeys my every command" gfx="collectibles_flymod.png"/>
+	<!-- Based off the original Monstro's Tooth item -->
+	<active maxcharges="6" name="Monstro's Eye" description="Summon Monstro II" gfx="collectibles_monstroseye.png" />
+
+	<!-- Now in Booster #5 -->
+	<!-- <familiar name="Mystery Egg" description="Sacrificial insemination" gfx="collectibles_mysteryegg.png" />
+	<familiar name="Lil Spewer" description="Puking buddy!" gfx="collectibles_lilspewer.png" /> -->
+
+	<passive cache="range shotspeed" name="Mom's Mole" description="Burrowing tears + shot speed up" gfx="collectibles_momsmole.png" />
+	<passive soulhearts="4" name="Fallen Feather" description="Help from above!" gfx="collectibles_fallenfeather.png" />
+
+</items>

@@ -1,0 +1,4 @@
+<costumes anm2root="gfx/characters/">
+	<!-- Based off the original Monstro's Tooth costume -->
+	<costume anm2path="c001_monstroseye.anm2" type="none" skinColor="1" overwriteColor="true" />
+</costumes>

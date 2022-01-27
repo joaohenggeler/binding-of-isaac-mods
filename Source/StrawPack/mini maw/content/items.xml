@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<familiar devilprice="1" name="Mini Maw" description="Sucking buddy" gfx="collectibles_minimaw.png" />
+
+</items>

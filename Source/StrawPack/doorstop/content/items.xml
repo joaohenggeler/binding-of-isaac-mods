@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<trinket name="Doorstop" description="Hold the door" gfx="trinket_doorstop.png" />
+
+</items>

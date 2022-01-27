@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>StrawPack 2</name>
+    <directory>strawpack 2</directory>
+    <id>1163138153</id>
+    <description>Adds 6 items, 5 trinkets and 1 challenge to the game!
+
+Art and thumbnail by Aczom.
+Code by Strawrat.
+This mod uses a cropped version of the following sound effect from Freesound: [url=http://freesound.org/people/Robinhood76/sounds/93570/]&quot;01543 flying dragon&quot; by Robinhood76.[/url]
+
+[b][u]NOTE:[/u][/b] If you already have any of these items individually installed, be sure to disable them if you enable this pack to prevent any possible conflicts.
+
+[h1]How to spawn every item and trinket in a room:[/h1]
+Execute the following command in the Debug Console: showcase strawpack2
+
+[url=https://www.reddit.com/r/bindingofisaac/comments/6w5kjc/how_can_i_open_the_debug_consol/dm5ib2l/?st=j8heyt7z&amp;sh=7129cd59]How to open the Debug Console.[/url]
+
+[h1]How to get each item/trinket individually:[/h1]
+
+[url=http://steamcommunity.com/workshop/filedetails/?id=927173370]Every item/trinket can be found in this collection.[/url]
+
+[IMG]https://i.imgur.com/pk9znEt.png[/IMG]
+[h1]Fallen Feather (passive - Angel pool):[/h1]
+
++2 Soul Hearts.
+
+Every time Isaac enters an uncleared room, a feather will fall from the sky.
+
+After it reaches the ground, one of two effects will happen:
+
+1. If the room was cleared while it was falling, every consumable in the room will be doubled (Jera Rune effect). If no consumables exist, a Soul Heart will spawn instead.
+
+2. If it remains uncleared, light beams will be shot down from the sky (Crack the Sky effect).
+
+The time it takes to fall to the ground depends on the number of enemies at the start of the room. This value goes from 6 seconds (when no enemies exist) to 15 seconds (at 16 or more enemies).
+
+[url=https://www.youtube.com/watch?v=-T5SHxEJycQ]Demo video![/url]
+
+[IMG]https://i.imgur.com/TBMW2jd.png[/IMG]
+[h1]Lil Spewer (familiar - Treasure pool - REMOVED - now in Booster Pack #5):[/h1]
+
+When picked up, a random pill is dropped on the floor.
+
+Gives Isaac a follower that shoots charged creep shots whose damage and pattern changes depending on Lil Spewer's variant.
+
+Every time Isaac takes a pill, Lil Spewer changes into a different variant.
+
+The pill drop and variant changes are seeded.
+
+Synergizes with BFFS: longer range and the creep line lasts longer.
+Synergizes with Lost Cork: larger puddles of creep.
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1108638164]The list of possible variants can be found here.[/url]
+
+[url=https://www.youtube.com/watch?v=L2pQfFTfZYo]Demo video![/url]
+
+[IMG]https://i.imgur.com/lbB7l0p.png[/IMG]
+[h1]Social Circle (trinket):[/h1]
+
+While held, familiars that would normally follow Isaac will now orbit him instead.
+
+This only applies to followers in the familiar chain that follows Isaac. One exception to this is Isaac's Heart, which would always follow Isaac.
+
+Might have no effect on other modded familiars.
+
+[url=https://www.youtube.com/watch?v=v8ihflqp4HY]Demo video![/url]
+
+[IMG]https://i.imgur.com/YpsxydB.png[/IMG]
+[h1]Familiar Doll (trinket):[/h1]
+
+While held, bosses have a 40% chance to drop items thematically related to them instead of their usual ones.
+
+The trinket can be dropped mid-fight to prevent any items from being replaced.
+
+Mom will [i]always[/i] drop The Polaroid and The Negative first.
+
+Drops from other sources such as Mystery Gift and Eden's Soul while in a Boss Room are also affected.
+
+Synergizes with Mom's Box: chance is 80% instead.
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1098666521]The list of possible replacements when the trinket effect occurs can be found here.[/url]
+
+[url=https://www.youtube.com/watch?v=AcwuAJW5t-A]Demo video![/url]
+
+[IMG]https://i.imgur.com/dstQlJi.png[/IMG]
+[h1]Fly Mod (active familiar - Treasure and Shop pools):[/h1]
+
+Charge: 1 room.
+
+While held, a robotic fly will orbit Isaac, dealing light contact damage and blocking enemy shots.
+
+After activating the item, Fly Mod will leave the orbit and dash for a few seconds, dealing a high amount of damage.
+
+After the fly slows down, it will bounce off the walls for the remainder of the room, dealing a medium amount of damage.
+
+Fly Mod confuses fly enemies that get close to it. It also turns Blue Flies into Locusts if they stay close to it for a few seconds.
+
+Every time Fly Mod kills an enemy, there is 50% for a Blue Fly to spawn.
+
+Synergizes with BFFS: increased area of effect for enemies and Blue Flies + the number of Blue Flies spawned after killing an enemy is increased by the amount of BFFS! items.
+
+[url=https://www.youtube.com/watch?v=e0_TKLYxyuI]Demo video![/url]
+
+[IMG]https://i.imgur.com/jvX3bb0.png[/IMG]
+[h1]Car Key (trinket):[/h1]
+
+While held, if Isaac collides with a locked object with a speed greater than his current maximum possible walking speed, it will be unlocked.
+
+Locked objects include: chests, doors (excluding Mega Satan's Door) and lock blocks*.
+
+* Due to API limitations, these will only be unlocked when you reenter the room.
+
+[url=https://www.youtube.com/watch?v=6Sf7soI7DHU]Demo video![/url]
+
+[IMG]https://i.imgur.com/2zHi1En.png[/IMG]
+[h1]Monstro's Eye (active - Treasure pool):[/h1]
+
+Charge: 6 rooms.
+
+When used, summons Monstro 2 to drop from above, landing on enemies, dealing 120 damage to them and destroying obstacles like rocks.
+
+After dropping down, Monstro 2 will shoot a Brimstone laser with the player's tear effects and damage.
+
+If no enemies are present, Monstro 2 will fall where Isaac is. He won't, however, home towards the player while falling.
+
+While held, there's a 15% chance to shoot concussive tears, causing enemies to walk around randomly.
+
+[url=https://www.youtube.com/watch?v=VtTHq-qB_BQ]Demo video![/url]
+
+[IMG]https://i.imgur.com/hYWTpYp.png[/IMG]
+[h1]Mom's Mole (passive - Treasure pool):[/h1]
+
+Shot speed up + slight range down.
+
+Isaac's tears now burrow underground at the end of their range. After enough have been burrowed, they'll all reemerge at once with combined tear effects.
+
+[url=https://www.youtube.com/watch?v=JAKo_L46a1E]Demo video![/url]
+
+[IMG]https://i.imgur.com/AELHDNg.png[/IMG]
+[h1]Mystery Egg (familiar - Treasure pool - REMOVED - now in Booster Pack #5):[/h1]
+
+When Isaac takes damage, Mystery Egg breaks and releases a charmed enemy. The type of enemy spawned depends on how many rooms have been cleared with the familiar (see below).
+
+Spawned monsters have more health than normal.
+
+Synergizes with BFFS!: spawned enemies turn into a random champion type.
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1016223447]The list of possible charmed enemies can be found here.[/url]
+
+[url=https://www.youtube.com/watch?v=_crnZEmJu5w]Demo video![/url]
+
+[IMG]https://i.imgur.com/N6brqWz.png[/IMG]
+[h1]Seed of Discord (trinket):[/h1]
+
+While held, every time Isaac goes down a floor, 3 new special seed effects are added to the run.
+When a full batch of 3 seed effects can't be added, a random Challenge effect will be applied.
+
+[b][u]NOTE: some seed effects will disable achievements![/u][/b]
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=927165094]The list of possible seed and challenge effects can be found here.[/url]
+
+[url=https://www.youtube.com/watch?v=cwNdZ4HdHOY]Demo video![/url]
+
+[IMG]https://i.imgur.com/opeJYLz.png[/IMG]
+[h1]Plucked Daisy (trinket):[/h1]
+
+While held, every amount of damage taken has a 50% to either be doubled or ignored.
+
+Synergizes with Mom's Box: same penalty but instead of ignoring the damage, Isaac gets healed for that amount.
+
+[url=https://www.youtube.com/watch?v=i7NunFRkgmc]Demo video![/url]
+
+[h1]The Glutton's Fork (challenge):[/h1]
+
+[b]Character:[/b] Isaac
+[b]Starting items:[/b] Fallen Feather, PHD, Isaac's Fork and a Gulp! pill.
+
+Every time a room is cleared before the feather hits the ground, every trinket, pill, card and rune held will be dropped on the ground.
+
+Duplicating a trinket with the feather will spawn another random trinket instead.
+
+[b]Conditions:[/b] no Treasure or Dice Rooms.
+[b]Goal:[/b] Satan.
+
+[url=https://www.youtube.com/watch?v=S6T7euV4XVc]Demo video![/url]</description>
+    <version>1.3</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Trinkets"/>
+    <tag id="Familiars"/>
+    <tag id="Challenges"/>
+</metadata>

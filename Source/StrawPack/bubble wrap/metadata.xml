@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>bubble wrap</name>
+    <directory>bubble wrap</directory>
+    <id>894762489</id>
+    <description>[i]&quot;Bubbly tears + shot speed up&quot;[/i]
+
+Shot speed + range up.
+
+Gives Isaac one soul heart on pickup.
+
+Tears now linger for a few seconds right after they start to fall to the ground.
+
+Can be found in the Treasure Room pool.
+
+This item is part of the StrawPack item pack.
+
+Code by Strawrat and art by Aczom.</description>
+    <version>1.3</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>

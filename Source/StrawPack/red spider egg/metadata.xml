@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>red spider egg</name>
+    <directory>red spider egg</directory>
+    <id>894769394</id>
+    <description>[i]&quot;Strength at a cost&quot;[/i]
+
+Adds a brand new trinket to the game!
+
+While held, Isaac gains a damage and speed boost and every enemy projectile has a 1/10 to turn into a spider when spawned.
+
+Synergizes with Mom's Box: boosts are doubled but so is the likelihood of a projectile turning into a spider.
+
+This trinket is part of the StrawPack item pack.
+
+Art by Aczom and code by Strawrat.</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Trinkets"/>
+</metadata>

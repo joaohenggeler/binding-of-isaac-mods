@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<passive cache="familiars" name="Extension Cord" description="Charged friends" gfx="collectibles_extensioncord.png" />
+
+</items>

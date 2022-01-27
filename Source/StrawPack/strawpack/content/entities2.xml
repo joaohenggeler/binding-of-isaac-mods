@@ -1,0 +1,32 @@
+<entities anm2root="gfx/" version="5">
+
+	<!-- variant="124" -> next free familiar variant for vanilla familiars - the game will assign the next free one in case it's used -->
+    <entity anm2path="003.c01_mini maw.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="18" friction="1" id="3" name="Mini Maw" numGridCollisionPoints="12" shadowSize="16" stageHP="0" variant="124" >
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+        <preload-snd id="262" /> <!-- SOUND_STONESHOOT -->
+    </entity>
+
+    <entity anm2path="003.c02_mechfly tear.anm2" baseHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="3" collisionRadius="13" friction="1" id="3" name="Mechfly Tear" numGridCollisionPoints="12" shadowSize="8" stageHP="0" variant="125">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <!-- both of these are part of the same item: "Mechanical Flies" -->
+    <entity anm2path="003.c03_mechfly body.anm2" baseHP="0" boss="0" champion="0" collisionDamage="6" collisionMass="3" collisionRadius="13" friction="1" id="3" name="Mechfly Body" numGridCollisionPoints="12" shadowSize="8" stageHP="0" variant="126">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+    <!-- part of Planetoids item -->
+
+    <entity anm2path="003.c04_planetoid sun.anm2" baseHP="0" boss="0" champion="0" collisionDamage="1.2" collisionMass="3" collisionRadius="13" friction="1" id="3" name="Planetoid Sun" numGridCollisionPoints="12" shadowSize="14" stageHP="0" variant="127">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+    <entity anm2path="003.c05_planetoid earth.anm2" baseHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="3" collisionRadius="7" friction="1" id="3" name="Planetoid Earth" numGridCollisionPoints="12" shadowSize="8" stageHP="0" variant="128">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+    <entity anm2path="003.c06_planetoid moon.anm2" baseHP="0" boss="0" champion="0" collisionDamage="1" collisionMass="3" collisionRadius="5" friction="1" id="3" name="Planetoid Moon" numGridCollisionPoints="12" shadowSize="6" stageHP="0" variant="129">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+    <!-- ^ part of Planetoids item -->
+
+</entities>

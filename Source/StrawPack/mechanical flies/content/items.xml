@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<familiar name="Mechanical Flies" description="Wind 'em up!" gfx="collectibles_mechanicalflies.png" />
+
+</items>

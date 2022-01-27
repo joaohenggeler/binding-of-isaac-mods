@@ -1,0 +1,20 @@
+<entities anm2root="gfx/" version="5">
+
+	<!-- variant="109" and such -> next free effect variant for vanilla effects - the game will assign the next free one in case it's used -->
+
+    <entity anm2path="1000.c01_fallen feather.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="1" collisionRadius="8" friction="1" id="1000" name="Fallen Feather" numGridCollisionPoints="8" shadowSize="0" stageHP="0" variant="109">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+        <preload id="1000" variant="19" /> <!-- CRACK_THE_SKY -->
+        <preload-snd id="268" /> <!-- SOUND_THUMBSUP -->
+    </entity>
+
+    <entity anm2path="1000.c02_angel flyby.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="8" friction="1" id="1000" name="Angel Flyby" numGridCollisionPoints="8" shadowSize="0" stageHP="0" variant="110">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+    <!-- Custom shadow whose opacity and radius can be tweaked in the .anm2 file -->
+    <entity anm2path="1000.c03_fallen feather's shadow.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="1" collisionRadius="8" friction="1" id="1000" name="Fallen Feather's Shadow" numGridCollisionPoints="8" shadowSize="0" stageHP="0" variant="111">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+</entities>

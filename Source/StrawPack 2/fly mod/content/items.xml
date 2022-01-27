@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<active maxcharges="1" name="Fly Mod" description="Obeys my every command" gfx="collectibles_flymod.png"/>
+
+</items>

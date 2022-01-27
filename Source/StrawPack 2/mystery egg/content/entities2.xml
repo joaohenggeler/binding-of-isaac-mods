@@ -1,0 +1,10 @@
+<entities anm2root="gfx/" version="5">
+
+	<!-- variant="124" -> next free familiar variant for vanilla familiars - the game will assign the next free one in case it's used -->
+	<entity anm2path="003.c01_Mystery Egg.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="13" friction="1" id="3" name="Mystery Egg" numGridCollisionPoints="12" shadowSize="15" stageHP="0" variant="124">
+		<!-- Mystery Egg uses BloodExplode() for the its egg crack effect, hence the gibs -->
+        <gibs amount="4" blood="1" bone="0" eye="0" gut="0" large="0" />
+        <preload-snd id="237" /> <!-- SOUND_PLOP -->
+    </entity>
+
+</entities>

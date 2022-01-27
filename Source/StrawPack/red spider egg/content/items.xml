@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<trinket cache="damage speed" name="Red Spider Egg" description="Strength at a cost" gfx="trinket_redspideregg.png" />
+
+</items>

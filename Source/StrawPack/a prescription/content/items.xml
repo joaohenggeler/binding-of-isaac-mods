@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<trinket name="A Prescription" description="Don't forget to take them!" gfx="trinket_aprescription.png" />
+
+</items>

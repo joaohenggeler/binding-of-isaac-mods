@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<familiar name="Mystery Egg" description="Sacrificial insemination" gfx="collectibles_mysteryegg.png" />
+
+</items>

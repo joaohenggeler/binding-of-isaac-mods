@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<trinket name="Familiar Doll" description="Thematic spoils" gfx="trinket_familiardoll.png" />
+
+</items>

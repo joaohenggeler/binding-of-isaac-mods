@@ -1,0 +1,5 @@
+<challenges version="1">
+	<!-- Isaac starts with PHD, Fallen Feather (added in the Lua code since its a modded item), Isaac's Fork trinket and the Gulp! pill.
+		The goal is Satan and Treasure and Dice Rooms are filtered.-->
+    <challenge name="The Glutton's Fork" startingitems="75" startingtrinkets="46" startingpill="43" endstage="10" altpath="false" roomfilter="4,21"/>
+</challenges>

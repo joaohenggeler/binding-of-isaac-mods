@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1">
+
+	<passive cache="range shotspeed" name="Mom's Mole" description="Burrowing tears + shot speed up" gfx="collectibles_momsmole.png" />
+
+</items>

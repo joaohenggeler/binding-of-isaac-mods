@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>moldy cheese</name>
+    <directory>moldy cheese</directory>
+    <id>894766650</id>
+    <description>[i]&quot;HP up + temporary help&quot;[/i]
+
+Adds a brand new passive item to the Boss pool!
+
+Gives Isaac one half filled heart and 2-3 blue flies when picked up.
+
+For as long as Isaac doesn't get hit, green creep will spawn under him. After one hit, this one effect goes away until Isaac goes down a floor.
+
+This item is part of the StrawPack item pack.
+
+Art by Aczom and code by Strawrat.</description>
+    <version>1.3</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>

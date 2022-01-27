@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>familiar doll</name>
+    <directory>familiar doll</directory>
+    <id>1098666521</id>
+    <description>[i]&quot;Thematic spoils&quot;[/i]
+
+Adds a brand new trinket to the game!
+
+While held, bosses have a 40% chance to drop items thematically related to them instead of their usual ones.
+
+The trinket can be dropped mid-fight to prevent any items from being replaced.
+
+Mom will [i]always[/i] drop The Polaroid and The Negative first.
+
+Drops from other sources such as Mystery Gift and Eden's Soul while in a Boss Room are also affected.
+
+Synergizes with Mom's Box: chance is 80% instead.
+
+This trinket will be part of the StrawPack 2 item pack. Stay tuned!
+
+Art by Aczom and code by Strawrat.
+
+[h1]List of possible replacements when the trinket effect occurs:[/h1]
+[list]
+[*] [b]Monstro:[/b] Monstro's Tooth, Lil Monstro
+[*] [b]Larry Jr:[/b] The Poop
+[*] [b]Chub:[/b] Little Chubby, Big Chubby
+[*] [b]Gurdy:[/b] Lil Gurdy
+[*] [b]Monstro 2:[/b] Monstro's Tooth, Monstro's Lung
+[*] [b]Mom:[/b] Mom's Underwear, Mom's Heels, Mom's Lipstick, Mom's Bra, Mom's Pad, Mom's Eye, Mom's Bottle of Pills, Mom's Contacts, Mom's Knife, Mom's Purse, Mom's Coin Purse, Mom's Key, Mom's Eyeshadow, Mom's Wig, Mom's Perfume, Mom's Pearls, Mom's Box, Mom's Razor, Mama Mega (The Polaroid and The Negative will [i]always[/i] drop first)
+[*] [b]Mom's Heart:[/b] Isaac's Heart, Sacred Heart, BFFS!, &lt;3, Yum Heart
+[*] [b]Famine:[/b] 7 Seals, Raw Liver
+[*] [b]Pestilence:[/b] 7 Seals, The Common Cold, Sinus Infection, Leprosy
+[*] [b]War:[/b] 7 Seals, Curse of the Tower, Pyromaniac
+[*] [b]Death:[/b] The Hourglass, Death's Touch, 7 Seals, Death's List
+[*] [b]Duke of Flies:[/b] Skatole, Halo of Flies, Distant Admiration, Forever Alone, The Mulligan, Best Bud
+[*] [b]Peep:[/b] Number One, Lemon Mishap, The Peeper
+[*] [b]Loki:[/b] Loki's Horns, Lil Loki
+[*] [b]Gemini:[/b] Gemini
+[*] [b]Gish:[/b] Ball of Tar
+[*] [b]Steven:[/b] Box, Buddy in a Box, Moving Box
+[*] [b]CHAD:[/b] SMB Super Fan, Cube of Meat, Ball of Bandages, Super Bandage, Dr Fetus
+[*] [b]Headless Horseman:[/b] The Pinking Shears, Scissors
+[*] [b]Satan:[/b] Mega Blast
+[*] [b]It Lives:[/b] Cambion Conception, Immaculate Conception
+[*] [b]Gurdy Jr:[/b] Lil Gurdy
+[*] [b]The Husk:[/b] Jar of Flies, Papa Fly, Hive Mind, Smart Fly, BBF, Big Fan, ???'s Only Friend, Parasitoid, Angry Fly
+[*] [b]The Bloat:[/b] The Peeper, Pop!
+[*] [b]Lokii:[/b] Loki's Horns, Lil Loki
+[*] [b]Blighted Ovum:[/b] Gemini, Lil Haunt
+[*] [b]The Widow:[/b] Spider Bite, Spider Butt, Spiderbaby, Infestation 2, Box of Spiders, Bursting Sack
+[*] [b]Mask of Infamy:[/b] Infamy, Isaac's Heart, Whore of Babylon
+[*] [b]The Wretched:[/b] Mutant Spider, Hive Mind, Juicy Sack, Sticky Bombs, Spider Mod, Parasitoid
+[*] [b]Conquest:[/b] 7 Seals
+[*] [b]Isaac:[/b] Isaac's Heart, Isaac's Tears, The D6
+[*] [b]Blue Baby:[/b] Brother Bobby, Fate, Fate's Reward, ???'s Only Friend
+[*] [b]Daddy Long Legs:[/b] Daddy Longlegs, Sissy Long Legs
+[*] [b]Triachnid:[/b] Daddy Longlegs
+[*] [b]The Haunt:[/b] Ghost Baby, Lil Haunt, Ghost Pepper
+[*] [b]Dingle:[/b] The Poop, Butt Bombs, E. Coli, Flush!
+[*] [b]Mega Maw:[/b] Fire Mind
+[*] [b]The Gate:[/b] Host Hat
+[*] [b]Mega Fatty:[/b] Farting Baby, Mega Bean
+[*] [b]Mama Gurdy:[/b] Lil Gurdy, Mama Mega
+[*] [b]The Dark One:[/b] Black Candle
+[*] [b]The Adversary:[/b] Black Candle
+[*] [b]Polychephalus:[/b] Polydactyly, Polyphemus, Steven, Stem Cells
+[*] [b]Mr Fred:[/b] Harlequin Baby
+[*] [b]Mega Satan:[/b] Mega Blast
+[*] [b]Gurglings:[/b] Lil Gurdy
+[*] [b]Brownie:[/b] The Poop, Butt Bombs, E. Coli, Flush!, Brown Nugget
+[*] [b]The Forsaken:[/b] Ghost Baby, Compound Fracture, Ghost Pepper
+[*] [b]Little Horn:[/b] Little Horn
+[*] [b]Rag Man:[/b] Lazarus' Rags, Old Bandage, Spoon Bender
+[*] [b]Ultra Greed:[/b] Head of the Keeper, Eye of Greed, Greed's Gullet
+[*] [b]Hush:[/b] Hushy
+[*] [b]Dangle:[/b] The Poop, Butt Bombs, E. Coli, Flush!, No. 2
+[*] [b]Turdling:[/b] The Poop, Butt Bombs, E. Coli, Flush!, Lil Gurdy
+[*] [b]Rag Mega:[/b] Lazarus' Rags, Old Bandage, Spoon Bender
+[*] [b]Sisters Vis:[/b] Gimpy
+[*] [b]Big Horn:[/b] Little Horn
+[*] [b]Delirium:[/b] Delirious, Lil Delirium
+[/list]</description>
+    <version>1.3</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Trinkets"/>
+</metadata>

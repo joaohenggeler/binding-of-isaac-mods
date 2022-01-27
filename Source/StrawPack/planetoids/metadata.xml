@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>planetoids</name>
+    <directory>planetoids</directory>
+    <id>894768596</id>
+    <description>[i]&quot;Celestial buddies&quot;[/i]
+
+Adds a brand new orbital to the Treasure Room pool!
+
+Gives Isaac 3 orbitals:
+
+Sun: orbits Isaac and has a 1/5 chance to apply burn on contact. Turns tears into Fire Mind tears when they pass through it.
+
+Earth: orbits the Sun and has a 1/5 chance to spawn a small puddle of blue creep on contact. Turns Fire Mind tears back into regular tears.
+
+Moon: orbits the Earth and has a 1/5 chance to apply confusion on contact.
+
+Can be found in the Treasure Room pool.
+
+This item is part of the StrawPack item pack.
+
+Art by Aczom and code by Strawrat.</description>
+    <version>1.2</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Familiars"/>
+</metadata>
