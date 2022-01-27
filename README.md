@@ -62,7 +62,7 @@ This section will list every mod in the repository and link to any relevant loca
 
 * Penny Pincher: [Source](Source/Penny%20Pincher/penny%20pincher), [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1190569532), [Video](https://www.youtube.com/watch?v=DdqK4mC67Sk).
 
-* Turn to Toad: [Source](Source/Turn%20to%20Toad/turn%20to%20toad), [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=904934783).
+* Turn to Toad: [Source](Source/Turn%20to%20Toad/turn%20to%20toad), [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=904934783), [Video](https://www.youtube.com/watch?v=drlD1nBG6jc).
 
 ## Screenshots
 
