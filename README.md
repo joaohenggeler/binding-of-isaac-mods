@@ -8,7 +8,7 @@ The "Fallen Feather" mod uses a cropped version of the sound effect ["01543 flyi
 
 ## Mods
 
-This section will list every mod in the repository and link to any relevant locations.
+This section lists every mod in the repository and link to any relevant locations.
 
 * A Prescription: [Source](Source/StrawPack/a%20prescription), [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=894754790), [Video](https://www.youtube.com/watch?v=bDcMx3thqek).
 
@@ -66,6 +66,6 @@ This section will list every mod in the repository and link to any relevant loca
 
 ## Screenshots
 
-![Items Screenshot](Images/items.png)
+![The modded items shown in the game.](Images/items.png)
 
-![Credits Screenshot](Images/credits.png)
+![The contributors section in the game's credits.](Images/credits.png)
